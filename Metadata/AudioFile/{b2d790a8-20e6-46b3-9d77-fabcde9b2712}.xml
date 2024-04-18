@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b2d790a8-20e6-46b3-9d77-fabcde9b2712}">
+		<property name="assetPath">
+			<value>Ambience/Supermarket/refrigerator01-26226.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>22.584</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7e9b91ab-cc68-46d4-86d1-cf4da76ca54a}</destination>
+		</relationship>
+	</object>
+</objects>

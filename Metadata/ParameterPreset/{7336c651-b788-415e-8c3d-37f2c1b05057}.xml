@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{7336c651-b788-415e-8c3d-37f2c1b05057}">
+		<property name="name">
+			<value>Tuner</value>
+		</property>
+		<relationship name="folder">
+			<destination>{0fc5e009-e3cd-4658-b292-96dd7d7cc5e0}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{5c9cd49a-ef69-432c-8b35-b141e73b3f52}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{5c9cd49a-ef69-432c-8b35-b141e73b3f52}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

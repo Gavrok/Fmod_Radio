@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a905d9ff-dd4c-4337-b051-5d9db2438abf}">
+		<property name="assetPath">
+			<value>SFX/windowTap.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3785833333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7e9b91ab-cc68-46d4-86d1-cf4da76ca54a}</destination>
+		</relationship>
+	</object>
+</objects>

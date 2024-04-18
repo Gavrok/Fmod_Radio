@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e5fcf475-3ba6-4669-8c18-0b4838b51660}">
+		<property name="assetPath">
+			<value>Ambience/Hub/separation-185196.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>139.65600000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7e9b91ab-cc68-46d4-86d1-cf4da76ca54a}</destination>
+		</relationship>
+	</object>
+</objects>
